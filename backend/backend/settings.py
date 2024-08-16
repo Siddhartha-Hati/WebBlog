@@ -61,7 +61,7 @@ MIDDLEWARE = [
 ]
 
 
-ROOT_URLCONF = "backend.backend.urls"
+ROOT_URLCONF = "backend.urls"
 CORS_ALLOW_ALL_ORIGINS = True
 # CORS_ALLOWED_ORIGINS = [
 #     "https://dreamwaveinnovation.com",
